@@ -1,0 +1,17 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #ff5733; /* Orange background for "Fire" */
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    font-size: 36px;
+    color: #ffcccb;
+}
+
+p {
+    font-size: 18px;
+    color: white;
+}
